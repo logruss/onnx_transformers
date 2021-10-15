@@ -24,7 +24,7 @@ from transformers.modelcard import ModelCard
 from transformers import AutoTokenizer
 from transformers import BasicTokenizer
 from transformers import PreTrainedTokenizer
-from transformers.file_utils import BatchEncoding, PaddingStrategy
+from transformers.file_utils import PaddingStrategy
 from transformers.utils import logging
 
 
